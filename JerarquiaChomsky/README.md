@@ -2,7 +2,7 @@
 
 Aplicación de escritorio con interfaz gráfica (Java Swing) que permite visualizar, simular y validar los modelos computacionales de los cuatro niveles de la jerarquía de Chomsky. El usuario elige un nivel en una pestaña, escribe una cadena (o usa un ejemplo) y la ejecuta paso a paso o con animación.
 
-**Autor:** [Tu nombre completo] · **Asignatura:** [Nombre de la materia] · **Proyecto tercero**
+**Autor:** [Nicolas Fhad Florez Ortegon] · **Asignatura:** [Automatas Gramaticas y Lenguajes] · **Proyecto tercero**
 
 ## Módulos
 
